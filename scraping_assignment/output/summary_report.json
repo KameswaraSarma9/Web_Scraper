@@ -1,0 +1,21 @@
+{
+  "collected_per_source": {
+    "Books to Scrape": 40,
+    "Quotes to Scrape": 20
+  },
+  "total_collected": 60,
+  "total_after_cleaning_and_validation": 60,
+  "valid_per_source": {
+    "Books to Scrape": 40,
+    "Quotes to Scrape": 20
+  },
+  "rejected_in_validation": 0,
+  "rejection_reasons": {},
+  "duplicates_detected_and_removed": 0,
+  "final_record_count": 60,
+  "final_per_source": {
+    "Books to Scrape": 40,
+    "Quotes to Scrape": 20
+  },
+  "execution_time_seconds": 47.18
+}
